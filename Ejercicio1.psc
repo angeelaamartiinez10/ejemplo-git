@@ -18,3 +18,4 @@ Algoritmo nombre
 	
 	Escribir "Adios!"
 FinAlgoritmo
+NEREA Y MINERVA
