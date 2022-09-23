@@ -19,3 +19,4 @@ Algoritmo nombre
 	Escribir "Adios!"
 FinAlgoritmo
 NEREA Y MINERVA
+El fin de semana llega
