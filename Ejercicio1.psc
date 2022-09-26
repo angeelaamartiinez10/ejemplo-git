@@ -22,3 +22,5 @@ NEREA Y MINERVA
 El fin de semana llega
 
 Ejercicio para mañana
+
+ clonar el repositorio y subir los cambios
